@@ -1,7 +1,8 @@
 {
   "name": "社内配布",
   "short_name": "社内配布",
- "start_url": "./",
+  "start_url": "/company-portal/",
+  "scope": "/company-portal/",
   "display": "standalone",
   "background_color": "#f5f7fa",
   "theme_color": "#1f4f99",
