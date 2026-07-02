@@ -1,1 +1,1 @@
-Upload to GitHub repo and enable Pages.
+GitHub Pagesにアップロードして利用してください。
